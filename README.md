@@ -1,4 +1,4 @@
-# locale_store
+# Locale Store
 
 A new Flutter project.
 
